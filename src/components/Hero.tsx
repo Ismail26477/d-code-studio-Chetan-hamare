@@ -35,7 +35,7 @@ const Hero = () => {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6 animate-slide-up">
-              <span className="gradient-text">Simran Mobile</span>
+              <span className="gradient-text">D0code Studio Mobile</span>
               <br />
               Your Trusted Mobile Store
             </h1>
