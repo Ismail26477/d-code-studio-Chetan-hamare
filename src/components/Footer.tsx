@@ -39,7 +39,7 @@ const Footer = () => {
                 <div className="w-10 h-10 gradient-bg rounded-xl flex items-center justify-center">
                   <Smartphone className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-xl font-bold">Simran Mobile</span>
+                <span className="text-xl font-bold">D-Code Studio Mobile</span>
               </div>
               <p className="text-white/70 text-sm mb-4">
                 Connecting You to Technology since 2010. Your trusted mobile store in Nagpur for smartphones, accessories, and repair services.
@@ -124,8 +124,8 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="w-5 h-5 text-primary flex-shrink-0" />
-                  <a href="mailto:info@simranmobile.com" className="text-white/70 hover:text-primary text-sm">
-                    info@simranmobile.com
+                  <a href="mailto:info@d-codestudiomobile.com" className="text-white/70 hover:text-primary text-sm">
+                    info@d-codestudiomobile.com
                   </a>
                 </li>
               </ul>
