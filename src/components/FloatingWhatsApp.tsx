@@ -17,7 +17,7 @@ const FloatingWhatsApp = () => {
                   <MessageCircle className="w-6 h-6" />
                 </div>
                 <div>
-                  <p className="font-semibold">Simran Mobile</p>
+                  <p className="font-semibold">The Mobile Hut</p>
                   <p className="text-xs text-white/80">Online | Replies in minutes</p>
                 </div>
               </div>
@@ -34,7 +34,7 @@ const FloatingWhatsApp = () => {
           <div className="p-4 bg-gray-50">
             <div className="bg-white rounded-lg p-3 shadow-sm">
               <p className="text-sm text-gray-700">
-                👋 Hi there! Welcome to Simran Mobile.
+                👋 Hi there! Welcome toThe Mobile Hut.
               </p>
               <p className="text-sm text-gray-700 mt-2">
                 How can we help you today? Ask us about:
