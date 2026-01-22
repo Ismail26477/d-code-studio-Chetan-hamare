@@ -135,7 +135,7 @@ const Footer = () => {
           {/* Bottom Bar */}
           <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-white/60 text-sm text-center md:text-left">
-              © {new Date().getFullYear()} Simran Mobile. All rights reserved.
+              © {new Date().getFullYear()} D-Code Studio Mobile. All rights reserved.
             </p>
             <p className="text-white/60 text-sm">
               Made with ❤️ in Nagpur
