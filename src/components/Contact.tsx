@@ -23,7 +23,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['info@d-codestudiomobile.com', 'support@d-codestudiomobile.com'],
+      details: ['info@themobilehut.com', 'support@themobilehut.com'],
       action: {
         label: 'Send Email',
         href: 'mailto:info@Dcodestudiomobile.com',
@@ -99,7 +99,7 @@ const Contact = () => {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="D-Code Studio Mobile Location"
+                title="The Mobile Hut Studio Mobile Location"
               />
             </div>
 
