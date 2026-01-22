@@ -37,7 +37,7 @@ const Navbar = () => {
             <div className="w-10 h-10 gradient-bg rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform">
               <Smartphone className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold gradient-text">D-Code Studio Mobile</span>
+            <span className="text-xl font-bold gradient-text">The Mobile Hut</span>
           </a>
 
           {/* Desktop Navigation */}
