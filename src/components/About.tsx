@@ -34,10 +34,10 @@ const About = () => {
               About Us
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Welcome to <span className="gradient-text">D-Code Studio Mobile</span>
+              Welcome to <span className="gradient-text">The Mobile Hut</span>
             </h2>
             <p className="text-muted-foreground text-lg mb-6">
-              Established by <strong>Suresh Grover</strong>, D-Code Studio Mobile has been serving Nagpur 
+              Established by <strong>Suresh Grover</strong>, The Mobile Hut has been serving Nagpur 
               for over 15 years. Located in the heart of Sadar at Anjuman Complex, we've built 
               our reputation on trust, quality, and exceptional customer service.
             </p>
