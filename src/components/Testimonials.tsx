@@ -20,7 +20,7 @@ const Testimonials = () => {
       name: 'Amit Kulkarni',
       role: 'IT Professional',
       rating: 5,
-      review: 'Been buying from D-Code Studio Mobile for 5 years. Always get the best deals and after-sales support is amazing.',
+      review: 'Been buying from The Mobile Hut for 5 years. Always get the best deals and after-sales support is amazing.',
       avatar: '👨‍💻',
     },
     {
